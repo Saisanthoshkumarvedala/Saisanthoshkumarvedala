@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Santhosh Kumar Vedala
 
-<!--
-**Saisanthoshkumarvedala/Saisanthoshkumarvedala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student in Information Technology & Project Management  
+🔍 Aspiring Data Analyst | Business Analyst  
+💡 Skilled in SQL, Python, Power BI, Tableau, Excel, Git, and more  
+📊 Passionate about turning data into insights  
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- [Olympics Power BI Dashboard](https://github.com/Saisanthoshkumarvedala/Olympics-Dashboard)
+- [AdventureWorks Sales Dashboard](https://github.com/Saisanthoshkumarvedala/AdventureWorks-PowerBI)
+- [Tip Calculator (Python)](https://github.com/Saisanthoshkumarvedala/Tip_Calculator)
+- [Treasure Island (Python Game)](https://github.com/Saisanthoshkumarvedala/Treasure-Island-Game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/santhosh-v-371705209) | [GitHub](https://github.com/Saisanthoshkumarvedala)
