@@ -1,12 +1,20 @@
-Hi there! 👋 I'm Sai Santhosh Kumar Vedala  
-📊 Aspiring Data Analyst | Business Analyst | MS in Information Technology & Project Management  
-[LinkedIn](https://www.linkedin.com/in/sai-santhosh-v-371705209/)
+# 👋 Hi there! I'm Sai Santhosh Kumar Vedala  
+📊 Aspiring Data Analyst | Business Analyst | MS in IT & Project Management  
 
-## About Me  
-🎓 Recently completed Master’s in Information Technology & Project Management from Indiana Wesleyan University.  
-Certified in Google Data Analytics and IBM Business Analysis with a strong foundation in turning raw data into clear, actionable insights using tools like Power BI, Tableau, and SQL.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sai-santhosh-v-371705209/)
+
+---
+
+## 📌 About Me
+
+🎓 Recent graduate with a Master’s in Information Technology & Project Management from Indiana Wesleyan University.  
+📈 Google and IBM-certified analytics professional skilled in SQL, Python, Power BI, and Tableau to transform data into strategic insights.  
+🧠 Experienced in Agile methodologies, stakeholder collaboration, and business documentation with a passion for solving real-world problems through data.
+
+---
 
 ## 🛠️ Technical Skills  
+
 ```python
 skills = {
     'Analytics & Visualization': [
@@ -31,26 +39,28 @@ skills = {
         'PMI Agile Foundation'
     ]
 }
-```
+```  
 
 📈 Featured Projects
 Supply Chain Dashboard (Tableau)
-Interactive dashboard analyzing inventory turnover, cost breakdown, and logistics KPIs using real-world supply chain data.
+Interactive dashboard analyzing inventory turnover, shipping efficiency, and cost breakdown using real-world supply chain data.
 
 Olympics Performance Dashboard (Power BI)
-Dynamic Power BI dashboard showcasing athlete trends, medal counts, and country performance using advanced DAX and visual storytelling.
+Dashboard showcasing athlete trends, medal distribution, and country-wise performance with advanced DAX calculations.
 
 AdventureWorks Sales Dashboard (Power BI)
-Retail analytics dashboard tracking sales, returns, and customer segments through interactive KPIs and cleaned structured data.
+Retail dashboard with KPIs on customer segmentation, product returns, and sales trends using cleaned and structured CSV data.
 
 Tip Calculator (Python)
-Beginner-friendly CLI project that calculates tip-adjusted bill splits per person using basic arithmetic logic.
+CLI-based bill-splitting calculator using user input and arithmetic logic for accurate tip computation.
 
 Treasure Island Game (Python)
-Text-based Python game with branching user choices, built using conditionals and loops for a fun interactive experience.
+Text-based Python game built with conditional logic and user interaction for a fun command-line adventure.
 
-📫 Get in Touch
-📧 Email: saisanthoshvedala2000@gmail.com
-📍 Location: Tampa, FL
-Currently exploring full-time roles in Data Analytics, Business Analysis, and Business Intelligence.
-Open to collaborations and data-driven projects that solve real business problems.
+Get in Touch
+ Email: saisanthoshvedala2000@gmail.com
+ Location: Tampa, FL
+ Currently open to full-time roles in Data Analytics (DA), Business Analysis (BA), and Business Intelligence (BI).
+ Always happy to collaborate on meaningful data-driven projects!
+
+
