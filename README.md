@@ -39,6 +39,7 @@ skills = {
         'PMI Agile Foundation'
     ]
 }
+##
 📈 Featured Projects
 📦 Supply Chain Dashboard (Tableau)
 Interactive dashboard analyzing inventory turnover, shipping efficiency, and cost breakdown using real-world supply chain data.
@@ -56,6 +57,7 @@ CLI-based bill-splitting calculator using user input and arithmetic logic for ac
 Text-based Python game built with conditional logic and user interaction for a fun command-line adventure.
 
 📫 Get in Touch
-Email: saisanthoshvedala2000@gmail.com
+Email: saisanthoshkumarvedala@gmail.com
 Location: Tampa, FL
 Currently open to full-time roles in Data Analytics (DA), Business Analysis (BA), and Business Intelligence (BI). Always happy to collaborate on meaningful data-driven projects!
+##
