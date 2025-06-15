@@ -41,26 +41,37 @@ skills = {
 }
 ```  
 
-📈 Featured Projects
-Supply Chain Dashboard (Tableau)
-Interactive dashboard analyzing inventory turnover, shipping efficiency, and cost breakdown using real-world supply chain data.
+## 📈 Featured Projects
 
-Olympics Performance Dashboard (Power BI)
-Dashboard showcasing athlete trends, medal distribution, and country-wise performance with advanced DAX calculations.
+1. **Supply Chain Dashboard (Tableau)**
+   - Interactive dashboard analyzing inventory turnover, shipping efficiency, and cost breakdown.
+   - Implemented KPI tracking and vendor performance insights for supply chain optimization.
 
-AdventureWorks Sales Dashboard (Power BI)
-Retail dashboard with KPIs on customer segmentation, product returns, and sales trends using cleaned and structured CSV data.
+2. **Olympics Performance Dashboard (Power BI)**
+   - Dashboard visualizing athlete trends, medal distribution, and country-wise performance.
+   - Used advanced DAX for time-based insights and ranking measures.
 
-Tip Calculator (Python)
-CLI-based bill-splitting calculator using user input and arithmetic logic for accurate tip computation.
+3. **AdventureWorks Sales Dashboard (Power BI)**
+   - Retail dashboard tracking sales, product returns, and customer segments.
+   - Built dynamic KPI visuals using structured transactional data.
 
-Treasure Island Game (Python)
-Text-based Python game built with conditional logic and user interaction for a fun command-line adventure.
+4. **Tip Calculator (Python)**
+   - CLI-based tool calculating per-person bill split with adjustable tip logic.
+   - Focused on user input handling and rounding precision.
 
-Get in Touch
- Email: saisanthoshvedala2000@gmail.com
- Location: Tampa, FL
- Currently open to full-time roles in Data Analytics (DA), Business Analysis (BA), and Business Intelligence (BI).
- Always happy to collaborate on meaningful data-driven projects!
+5. **Treasure Island Game (Python)**
+   - Text-based interactive game using conditional branches and logical flows.
+   - Designed for beginner-level storytelling with command-line navigation.
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** saisanthoshvedala2000@gmail.com  
+- **Location:** Tampa, FL  
+
+Currently exploring new opportunities in **Data Analytics**, **Business Analysis**, and **Business Intelligence**.  
+Open to collaboration on data-driven projects!
+
 
 
